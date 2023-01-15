@@ -1,0 +1,31 @@
+.text-h1{
+   font-size: 80px;
+   font-weight: 800;
+   font-style: normal;
+
+}
+
+.main-content{
+
+}
+
+.button-master {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+.button-master:hover {
+    background-color: rgb(148, 127, 255);
+}
+.button-master:active {
+    background-color: red;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
